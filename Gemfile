@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'middleman'
-gem 'httparty'
+gem 'httparty', '>= 0.21.0'
 gem 'psych'
 gem 'colorize'
 
