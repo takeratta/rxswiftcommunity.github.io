@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'middleman'
+gem 'middleman', '>= 4.0.0'
 gem 'httparty'
 gem 'psych'
 gem 'colorize'
